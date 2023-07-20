@@ -1,0 +1,11 @@
+body{
+    background-color:whitesmoke;
+    text-align: center;   
+}
+#tetris{
+    background-color:white;
+    border:2px solid lightgrey;
+    box-shadow:0 0 10px 2px lightgrey;
+    margin-top:0px;
+    margin-left:100px;
+}
